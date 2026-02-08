@@ -288,7 +288,7 @@ audio {
   }
 
   .main-nav ul {
-    flex: space-envenly;
+    justify-content: space-evenly;
     flex-direction: row;
     gap: 0.6rem;
     padding: 0;
@@ -315,6 +315,8 @@ audio {
 
   .table th, .table td { padding: 0.3rem; }
 
+  }
+
   /* Tablets (810px × 1080px)*/
 @media (max-width: 900px) {
     
@@ -327,7 +329,7 @@ audio {
   }
 
   .main-nav ul {
-    flex: space-envenly;
+    justify-content: space-evenly;
     flex-direction: row;
     gap: 0.6rem;
     padding: 0;
@@ -338,6 +340,6 @@ audio {
     padding: 0.6rem;
     font-size: 1rem;
   }
-  }
+
 
 }

@@ -1,2 +1,9 @@
-# Página web con HTML5 + CCS3
-Creación de una página web como actividad para DAM
+# Web Portfolio
+
+Here you can find more about me, my experience and what I'm building. 
+
+## Get in touch
+
+LinkedIn: https://linkedin.com/in/carla-dumitrascu
+
+Email: carladumit@gmail.com
